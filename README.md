@@ -35,7 +35,6 @@ We build **AI-powered platforms**, **Discord bots**, and **innovative applicatio
 | **[Musico](https://discord.gg/VQr7a89h8S)** | A feature-rich Discord music bot with high-quality audio streaming, multi-source support, and seamless queue management. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `Private` |
 | **[CogniCraft](https://discord.gg/ujy2ksyVnF)** | An intelligent Discord AI bot that automates server creation and management using natural language commands. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `Private` |
 | **Mod-Bot** | Discord moderation bot for automated server management and safety. | — | `Private` |
-| **.github** | Organization configuration and community health files. | — | `Public` |
 
 <br/>
 
